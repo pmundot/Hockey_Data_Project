@@ -1,5 +1,7 @@
 # Hockey Goals and the Positions of Scoring
 
+
+Binder link to a interactive file
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pmundot/Hockey_Data_Project/main)
 
 Many sports analysis have tried to find a different correlation betweening being a successful winning team, average team, and a losing 
